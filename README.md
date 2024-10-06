@@ -1,5 +1,5 @@
 # CF-workers-Random-picture
-基于CF-workers的随机图片api
+基于CF-workers的随机图片api  
 Demo：https://acg.wytx.cc  
 ***
 1.档直接访问`https://acg.wytx.cc`时Cloudflare Worker 会根据用户代理（User-Agent）自动检测设备类型（如移动设备、平板或PC），并跳转到相应的图片链接  
